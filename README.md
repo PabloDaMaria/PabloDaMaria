@@ -1,6 +1,4 @@
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-###
-<h1 align="center">Hi 👋, I'm Pablo Vinicius</h1>
+<h1 align="center">Hi, I'm Pablo Vinicius</h1>
 <h3 align="center">IFMS Student - Nova Andradina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="PvBDP" /> </p>
