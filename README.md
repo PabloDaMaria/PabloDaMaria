@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/7241278a-1321-4053-b2cf-94b1d980b42d" width="70%" />
 </p>
 
-# Olá, sou o Pablo Vinicius! 👨‍💻✨
+---
+
+# Olá, sou o Pablo Vinicius! 👨‍💻
 
 Sou estudante do **Instituto Federal de Mato Grosso do Sul.** 
 
