@@ -1,12 +1,29 @@
-<h1 align="center">Hi, I'm Pablo Vinicius</h1>
-<h3 align="center">IFMS Student - Nova Andradina</h3>
+# Olá, sou o Pablo Vinicius! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="PvBDP" /> </p>
+Sou estudante do **Instituto Federal de Mato Grosso do Sul** e apaixonado por tecnologia. Aqui, compartilho meus projetos e aprendizados enquanto exploro o mundo da programação e desenvolvimento de software.
 
+## Linguagens e Tecnologias que Eu Entendo
 
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+- ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=8CC84B)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=306998)
+- ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)
+- ![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-333333?style=flat&logo=heroku&logoColor=6762A6)
+- ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pablokkjjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablokkjjk" height="30" width="40" /></a>
-<a href="https://instagram.com/pabllo.v7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pabllo.v7" height="30" width="40" /></a>
+## Estatísticas GitHub
 
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablov7&show_icons=true&theme=radical)
+
+## Redes Sociais
+
+- [Instagram](https://www.instagram.com/pabllo.v7) 📸 @pabllo.v7
+- [Twitter](https://twitter.com/pablokkjjk) 🐦 @pablokkjjk
+
+---
+
+Agradeço pela visita ao meu perfil! 🚀
