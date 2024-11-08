@@ -17,7 +17,7 @@ Sou estudante do **Instituto Federal de Mato Grosso do Sul** e apaixonado por te
 
 ## Estatísticas GitHub
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablov7&show_icons=true&theme=radical)
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oreia7&show_icons=true&theme=radical)
 
 ## Redes Sociais
 
