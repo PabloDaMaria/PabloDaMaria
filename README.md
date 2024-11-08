@@ -1,8 +1,15 @@
-# Olá, sou o Pablo Vinicius! 👋
+![download](https://github.com/user-attachments/assets/7241278a-1321-4053-b2cf-94b1d980b42d)<!-- Cabeçalho com imagem -->
+<p align="center">
+  <img src="" alt="" width="300"/>
+</p>
 
-Sou estudante do **Instituto Federal de Mato Grosso do Sul** e apaixonado por tecnologia, desenvolvimento e inovação. Estou sempre aprendendo e aplicando novos conceitos em meus projetos de programação.
+# Olá, sou o Pablo Vinicius! 👨‍💻✨
 
-## Linguagens e Tecnologias que Eu Entendo
+Bem-vindo ao meu perfil no GitHub! Sou estudante do **Instituto Federal de Mato Grosso do Sul** e apaixonado por programação e tecnologia. Aqui, compartilho meus projetos e desafios enquanto continuo aprendendo e me desenvolvendo como programador.
+
+---
+
+## 🛠️ Linguagens e Tecnologias que Eu Entendo
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
@@ -17,15 +24,16 @@ Sou estudante do **Instituto Federal de Mato Grosso do Sul** e apaixonado por te
 
 ---
 
-## Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 ![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oreia7&show_icons=true&theme=radical)
 
 ---
 
-## Redes Sociais
+## 🌐 Redes Sociais
 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pabllo.v7) @pabllo.v7
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pablokkjjk) @pablokkjjk
 
 ---
+
