@@ -1,6 +1,6 @@
 ![download](https://github.com/user-attachments/assets/7241278a-1321-4053-b2cf-94b1d980b42d)<!-- Cabeçalho com imagem -->
 <p align="center">
-  <img src="" alt="" width="300"/>
+  <img src="" alt="" width="50px"/>
 </p>
 
 # Olá, sou o Pablo Vinicius! 👨‍💻✨
