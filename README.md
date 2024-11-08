@@ -1,11 +1,10 @@
-![download](https://github.com/user-attachments/assets/7241278a-1321-4053-b2cf-94b1d980b42d)<!-- Cabeçalho com imagem -->
 <p align="center">
-  <img src="" alt="" width="50px"/>
+  <img src="https://github.com/user-attachments/assets/7241278a-1321-4053-b2cf-94b1d980b42d" width="70%" />
 </p>
 
 # Olá, sou o Pablo Vinicius! 👨‍💻✨
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante do **Instituto Federal de Mato Grosso do Sul** e apaixonado por programação e tecnologia. Aqui, compartilho meus projetos e desafios enquanto continuo aprendendo e me desenvolvendo como programador.
+Sou estudante do **Instituto Federal de Mato Grosso do Sul.** 
 
 ---
 
