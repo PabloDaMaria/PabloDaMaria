@@ -29,7 +29,7 @@ My name is Pablo, and I am a student at the **Federal Institute of Mato Grosso d
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oreia7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MenoRegresso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 ---
 
