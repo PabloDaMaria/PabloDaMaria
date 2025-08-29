@@ -67,7 +67,7 @@ My name is Pablo, and I am a student at the **Federal Institute of Mato Grosso d
   <a href="https://www.youtube.com/@Pv777." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/pablokkjjk" target="_blank">
+  <a href="https://twitter.com/pabloodamaria" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
